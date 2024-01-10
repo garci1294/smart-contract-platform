@@ -27,4 +27,4 @@ We welcome contributions from the community! If you have suggestions, improvemen
 This project is licensed under [specify the license type here], which allows for collaboration and sharing within the community.
 
 ## Contact
-For any inquiries or support, please contact [Your Contact Information] or raise an issue in the repository.
+For any inquiries or support, please contact garci624@umn.edu or raise an issue in the repository.
